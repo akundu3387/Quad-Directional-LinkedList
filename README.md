@@ -19,3 +19,20 @@ Objectives:
 - Implementing linked list routines, i.e. insertion, finding nodes, display, ect
 
 - Practice C++ dynamic memory management, i.e. avoiding memory leaks, avoiding double free, protection against wrong accesses in memory (segmentation  fault), etc.
+
+
+Reading in input from data.txt:
+
+- First line is # of total Nodes
+
+- Nodes in data are in 5 columns
+
+- First Column is the node number
+
+- Second Column is the node # at North Position
+
+- Third Column is the node # at East Position
+
+- Fourth Column is the node # at South Position
+
+- Fifth Column is the node # at West Position
