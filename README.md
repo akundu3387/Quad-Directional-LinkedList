@@ -18,6 +18,8 @@ Objectives:
 
 - Implementing linked list routines, i.e. insertion, finding nodes, display, ect
 
+- Practice the use of STACKS
+
 - Practice C++ dynamic memory management, i.e. avoiding memory leaks, avoiding double free, protection against wrong accesses in memory (segmentation  fault), etc.
 
 
