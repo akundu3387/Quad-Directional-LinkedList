@@ -3,9 +3,11 @@
 Arjun Kundu
 
 09/11/21
+------------------------------------------------------------------------------------------------------------------v
 
 To Compile: g++ -g -Wall graph.cpp mytest.cpp -o mytest
 
+------------------------------------------------------------------------------------------------------------------
 Objectives:
 
 - Implementing a Quad-Directional Linked List container, with each node connected to 4 different nodes(north,east,south,west)
@@ -22,7 +24,7 @@ Objectives:
 
 - Practice C++ dynamic memory management, i.e. avoiding memory leaks, avoiding double free, protection against wrong accesses in memory (segmentation  fault), etc.
 
-
+------------------------------------------------------------------------------------------------------------------
 Reading in input from data.txt:
 
 - First line is # of total Nodes
